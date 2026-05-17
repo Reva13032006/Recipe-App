@@ -1,16 +1,81 @@
-# recipe_book
+# Whisk - Recipe Book App 🍲
 
-A new Flutter project.
+A modern Flutter recipe application that allows users to browse recipes, search for recipes, view detailed cooking instructions, and save favorite recipes using Provider state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🍴 Browse different recipes
+- 🔍 Search recipes
+- ❤️ Add and remove favorite recipes
+- 📖 Detailed recipe view
+- 🎨 Clean and responsive UI
+- ⚡ State management using Provider
+- 📱 Cross-platform Flutter application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Provider State Management
+
+---
+
+## 📂 Project Structure
+
+```bash
+lib/
+ ├── main.dart
+ ├── homepage.dart
+ ├── home_Details.dart
+ ├── item_details.dart
+ ├── favoritepage.dart
+ ├── favproviders.dart
+ └── global_variable.dart
+
+assets/
+ └── images/
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Reva13032006/Recipe-App.git
+```
+
+### Navigate to Project Folder
+
+```bash
+cd Recipe-App
+```
+
+### Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the App
+
+```bash
+flutter run
+```
+
+---
+
+## 📸 Screenshots
+
+Add your application screenshots here later.
+
+Example:
+
+```md
+![Home Screen](assets/screenshots/home.png)
+```
