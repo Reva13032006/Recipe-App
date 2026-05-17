@@ -70,19 +70,18 @@ flutter run
 
 ---
 
+
 ## 📸 Screenshots
 
+### Home Screen
+![Home Screen](assets/Screenshots/image.png)
 
-```md
-![Home Screen](assets/screenshots/image.png)
-```
-```md
-![Preparation Screen](assets/screenshots/Preparation.jpeg)
-```
-```md
-![Add to favourite](assets/screenshots/Added_to_fav.jpeg)
-```
-```md
-![Favourite](assets/screenshots/favourite.jpeg)
-```
+### Preparation Screen
+![Preparation Screen](assets/Screenshots/Preparation.jpeg)
+
+### Add to Favourite
+![Add to Favourite](assets/Screenshots/Added_to_fav.jpeg)
+
+### Favourite Screen
+![Favourite Screen](assets/Screenshots/Favourite.jpeg)
 
