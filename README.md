@@ -72,10 +72,17 @@ flutter run
 
 ## 📸 Screenshots
 
-Add your application screenshots here later.
-
-Example:
 
 ```md
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](assets/screenshots/image.png)
 ```
+```md
+![Preparation Screen](assets/screenshots/Preparation.jpeg)
+```
+```md
+![Add to favourite](assets/screenshots/Added_to_fav.jpeg)
+```
+```md
+![Favourite](assets/screenshots/favourite.jpeg)
+```
+
